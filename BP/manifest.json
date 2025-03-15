@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"SlimmySlabby"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.43"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			60
+		],
+		"uuid": "b04129f4-0f58-4321-be21-fb52f75d6fe9",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d992b9cb-cac0-454f-a21b-2d4634809358",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
