@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_cherry_wood"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:cherry_wood",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:cherry_wood"
+            }
+        ]
+    }
+}

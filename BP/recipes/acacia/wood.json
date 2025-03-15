@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_acacia_wood"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:acacia_wood",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:acacia_wood"
+            }
+        ]
+    }
+}

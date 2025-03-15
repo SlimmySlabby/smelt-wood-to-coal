@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_log_dark_oak"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:dark_oak_log",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:dark_oak_log"
+            }
+        ]
+    }
+}

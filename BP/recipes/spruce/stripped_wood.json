@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_stripped_spruce_wood"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:stripped_spruce_wood",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:stripped_spruce_wood"
+            }
+        ]
+    }
+}

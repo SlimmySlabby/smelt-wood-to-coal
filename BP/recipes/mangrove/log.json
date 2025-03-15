@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_log_mangrove"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:mangrove_log",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:mangrove_log"
+            }
+        ]
+    }
+}

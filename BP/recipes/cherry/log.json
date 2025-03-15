@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_log_cherry"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:cherry_log",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:cherry_log"
+            }
+        ]
+    }
+}

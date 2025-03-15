@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_log_birch"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:birch_log",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:birch_log"
+            }
+        ]
+    }
+}

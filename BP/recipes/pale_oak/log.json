@@ -1,0 +1,18 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "minecraft:furnace_log_pale_oak"
+        },
+        "tags": [
+            "furnace"
+        ],
+        "input": "minecraft:pale_oak_log",
+        "output": "minecraft:coal",
+        "unlock": [
+            {
+                "item": "minecraft:pale_oak_log"
+            }
+        ]
+    }
+}
